@@ -36,8 +36,10 @@ The repository presents the _shapefiles_ of all limits, in geographical projecti
 
 Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.S.; Ribeiro, M.C. Limites territoriais inclusivos para estudos ecológicos e biogeográficos na Mata Atlântica. Submetido para _Oecologia Australis_.
 
+Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T .; Tonetti, V.R .; Niebuhr, B.B.S .; Ribeiro, M.C. Inclusive territorial limits for ecological and biogeographical studies in the Atlantic Forest. Submitted to _Oecologia Australis_.
+
 # Contato/Contact
 
-+ Renara de L. Muylaert <<renatamuy@gmail.com>>  
++ Renata L. Muylaert <<renatamuy@gmail.com>>  
 + Milton C. Ribeiro <<mcr@rc.unesp.br>>
 
