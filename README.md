@@ -41,5 +41,5 @@ Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T
 # Contato/Contact
 
 + Renata L. Muylaert <<renatamuy@gmail.com>>  
-+ Milton C. Ribeiro <<mcr@rc.unesp.br>>
++ Milton Cezar Ribeiro <<mcr@rc.unesp.br>>
 
