@@ -1,20 +1,20 @@
 # Limites da Mata Atlântica - _shapefiles_
 
-Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites integradores propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (_submetido_).
+Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (_submetido_).
 
 Limites revisados:  
-+ __World Wildlife Fund (WWF, 2001)__: proposto em 2001 com o intuito de mapear...
++ __World Wildlife Fund (WWF, 2001)__: proposto em Olson et al. (2001) com o intuito de mapear as ecoregiões do mundo, a iniciativa envolveu mais de 100 pesquisadores. A parte de Mata Atlântica do limite se refere às duas categorias de Mata Atlântica disponibilizadas no shapefile original.
 + __MMA, IBGE (2004)__: descrição curta
 + __Lei da Mata Atlântica (2006)__: descrição curta
 + __Ribeiro et al. (2009)__: descrição curta
 
 Limites propostos:  
 + __Limite integrador__: corresponde à união dos 4 limites acima.
-+ __Limite expandido__: descrição curta
++ __Limite consensual__: é a simples interseção dos 4 limites acima.
 
-O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon) e Datum WGS-84 quanto em projeção Albers Equal Area e Datum SAD69. Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e sobreposição/complementação dos limites.
+O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon) e Datum WGS-84 quanto em projeção Albers Equal Area e Datum SAD69. Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e diferenças e similaridades dos limites.
 
-[colocar figura bonita ilustrativa com os 6 limites?]
+[colocar figura bonita ilustrativa com os 6 limites? Depois da proof!]
 
 # Limits of the Atlantic Forest - _shapefiles_
 
@@ -28,7 +28,7 @@ Reviewed limits:
 
 Proposed limits:  
 + __Integrative limit__: short description
-+ __Expanded limit__: short description
++ __Consensual_limit__: short description
 
 The repository presents the _shapefiles_ of all limits, in geographical projection (lat-lon) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
 
