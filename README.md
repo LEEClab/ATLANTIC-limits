@@ -27,16 +27,16 @@ Reviewed limits:
 + __Ribeiro et al. (2009)__: short description
 
 Proposed limits:  
-+ __Integrative limit__: short description
-+ __Consensual_limit__: short description
++ __Integrative limit__: corresponds to the union of the for limits above
++ __Consensual_limit__: corresponds to the intersection of the limits above
 
 The repository presents the _shapefiles_ of all limits, in geographical projection (lat-lon) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
 
 # Citação/Citation
 
-Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.S.; Ribeiro, M.C. Limites territoriais inclusivos para estudos ecológicos e biogeográficos na Mata Atlântica. Submetido para _Oecologia Australis_.
+Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.S.; Ribeiro, M.C. Uma nota sobre os limites territoriais da Mata Atlântica. Submetido para _Oecologia Australis_.
 
-Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T .; Tonetti, V.R .; Niebuhr, B.B.S.; Ribeiro, M.C. Inclusive territorial limits for ecological and biogeographical studies in the Atlantic Forest. Submitted to _Oecologia Australis_.
+Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T .; Tonetti, V.R .; Niebuhr, B.B.S.; Ribeiro, M.C. A note on the territorial limits of the Atlantic Forest. Submitted to _Oecologia Australis_.
 
 # Contato/Contact
 
