@@ -27,8 +27,8 @@ Reviewed limits:
 + __Ribeiro et al. (2009)__: short description
 
 Proposed limits:  
-+ __Integrative limit__: corresponds to the union of the for limits above
-+ __Consensual_limit__: corresponds to the intersection of the limits above
++ __Integrative limit__: corresponds to the union of the four limits above
++ __Consensual_limit__: corresponds to the intersection of the four limits above
 
 The repository presents the _shapefiles_ of all limits, in geographical projection (lat-lon) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
 
