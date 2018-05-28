@@ -16,7 +16,7 @@ O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeçã
 
 [colocar figura bonita ilustrativa com os 6 limites? Depois da proof!]
 
-# Limits of the Atlantic Forest - _shapefiles_
+# Limits of the Atlantic Forest 
 
 This repository presents the four most used limits for the Atlantic Forest and two new integrative limits proposed for ecological and biogeographical studies. The limits were reviewed and presented by Muylaert et al. (_submitted_).
 
@@ -40,6 +40,6 @@ Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T
 
 # Contato/Contact
 
-+ Renata L. Muylaert <<renatamuy@gmail.com>>  
++ Renata Lara Muylaert <<renatamuy@gmail.com>>  
 + Milton Cezar Ribeiro <<mcr@rc.unesp.br>>
 
