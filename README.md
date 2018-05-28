@@ -1,4 +1,4 @@
-# Limites da Mata Atlântica - _shapefiles_
+# Limites da Mata Atlântica 
 
 Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (_submetido_).
 
