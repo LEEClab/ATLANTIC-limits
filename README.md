@@ -1,6 +1,6 @@
 # Limites da Mata Atlântica 
 
-Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (_submetido_).
+Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (2018).
 
 Limites revisados:  
 + __World Wildlife Fund (WWF, 2001)__: proposto em Olson et al. (2001) com o intuito de mapear as ecoregiões do mundo, a iniciativa envolveu mais de 100 pesquisadores. A parte de Mata Atlântica do limite se refere às duas categorias de Mata Atlântica disponibilizadas no shapefile original.
@@ -18,7 +18,7 @@ O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeçã
 
 # Limits of the Atlantic Forest 
 
-This repository presents the four most used limits for the Atlantic Forest and two new integrative limits proposed for ecological and biogeographical studies. The limits were reviewed and presented by Muylaert et al. (_submitted_).
+This repository presents the four most used limits for the Atlantic Forest and two new integrative limits proposed for ecological and biogeographical studies. The limits were reviewed and presented by Muylaert et al. (2018).
 
 Reviewed limits:  
 + __World Wildlife Fund (WWF, 2001)__: short description
@@ -30,13 +30,13 @@ Proposed limits:
 + __Integrative limit__: corresponds to the union of the four limits above
 + __Consensual_limit__: corresponds to the intersection of the four limits above
 
-The repository presents the _shapefiles_ of all limits, in geographical projection (lat-lon) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
+The repository presents the _shapefiles_ of all limits, in geographical projection (lat-long) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
 
 # Citação/Citation
 
-Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.S.; Ribeiro, M.C. Uma nota sobre os limites territoriais da Mata Atlântica. Submetido para _Oecologia Australis_.
+Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.S.; Ribeiro, M.C. Uma nota sobre os limites territoriais da Mata Atlântica. _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
 
-Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T .; Tonetti, V.R .; Niebuhr, B.B.S.; Ribeiro, M.C. A note on the territorial limits of the Atlantic Forest. Submitted to _Oecologia Australis_.
+Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T .; Tonetti, V.R .; Niebuhr, B.B.S.; Ribeiro, M.C. A note on the territorial limits of the Atlantic Forest.  _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
 
 # Contato/Contact
 
