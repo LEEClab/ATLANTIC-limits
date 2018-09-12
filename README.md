@@ -1,3 +1,8 @@
+
+<img align="center" width="1000" src="/images/cantareira_tonetti_cut.png">
+
+Foto: V. Tonetti
+
 # Limites da Mata Atlântica 
 
 Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (2018).
