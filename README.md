@@ -7,8 +7,10 @@ Foto: V. Tonetti
 
 Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (2018).
 
-<img align="center" width="550" src="/images/Fig_release_v02.png">
 
+<p align="center"> 
+<img width="550" src="/images/Fig_release_v02.png">
+</p> 
 
 Limites revisados:  
 + __World Wildlife Fund (WWF, 2001)__: proposto em Olson et al. (2001) com o intuito de mapear as ecoregiões do mundo, a iniciativa envolveu mais de 100 pesquisadores. A parte de Mata Atlântica do limite se refere às duas categorias de Mata Atlântica disponibilizadas no shapefile original.
