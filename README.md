@@ -2,7 +2,7 @@
 
 Este repositório apresenta os quatro limites mais utilizados para a Mata Altântica, além de dois novos limites propostos para estudos ecológicos e biogeográficos. Os limites foram revisados e apresentados por Muylaert et al. (2018).
 
-<img align="center" width="550" src="https://github.com/LEEClab/ATLANTIC-limits/tree/master/images/Fig_release_v02.png">
+<img align="center" width="550" src="/images/Fig_release_v02.png">
 
 
 Limites revisados:  
