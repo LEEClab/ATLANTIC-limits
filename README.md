@@ -5,7 +5,8 @@ Foto: V. Tonetti
 
 # Limits of the Atlantic Forest 
 
-__English version of the article available [here]__(https://github.com/LEEClab/ATLANTIC-limits/blob/master/Muylaert_et_al_2018_English_version_2018_10_D26_GitHub.pdf)
+__English version of the article available [here](https://github.com/LEEClab/ATLANTIC-limits/blob/master/Muylaert_et_al_2018_English_version_2018_10_D26_GitHub.pdf)__
+
 This repository presents the four most used limits for the Atlantic Forest and two new integrative limits proposed for ecological and biogeographical studies. The limits were reviewed and presented by Muylaert et al. (2018). 
 
 <p align="center"> 
