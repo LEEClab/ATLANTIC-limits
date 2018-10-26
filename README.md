@@ -46,8 +46,6 @@ The repository presents the _shapefiles_ of all limits, in geographical projecti
 
 Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.; Ribeiro, M.C. Uma nota sobre os limites territoriais da Mata Atlântica. _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
 
-Muylaert, R.L .; Vancine, M.H .; Bernardo, R .; Oshima, J.E.F .; Sobral-Souza, T .; Tonetti, V.R .; Niebuhr, B.B.; Ribeiro, M.C. A note on the territorial limits of the Atlantic Forest.  _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
-
 # Contato/Contact
 
 + Renata Lara Muylaert <<renatamuy@gmail.com>>  
