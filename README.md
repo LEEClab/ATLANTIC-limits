@@ -46,6 +46,10 @@ O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeçã
 
 Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.; Ribeiro, M.C. Uma nota sobre os limites territoriais da Mata Atlântica. _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
 
+# Releases
+
+[Redescobrindo os limites da Mata Atlântica](https://www2.unesp.br/portal#!/noticia/33763/redescobrindo-os-limites-da-mata-atlantica)
+
 # Contato/Contact
 
 + Renata Lara Muylaert <<renatamuy@gmail.com>>  
