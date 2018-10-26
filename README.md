@@ -28,17 +28,18 @@ O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeçã
 
 # Limits of the Atlantic Forest 
 
-This repository presents the four most used limits for the Atlantic Forest and two new integrative limits proposed for ecological and biogeographical studies. The limits were reviewed and presented by Muylaert et al. (2018).
+This repository presents the four most used limits for the Atlantic Forest and two new integrative limits proposed for ecological and biogeographical studies. The limits were reviewed and presented by Muylaert et al. (2018). English version of the article available here: <<https://github.com/LEEClab/ATLANTIC-limits/blob/master/Muylaert_et_al_2018_English_version_2018_10_D26_GitHub.pdf>>
+
 
 Reviewed limits:  
-+ __World Wildlife Fund (WWF, 2001)__: short description
-+ __MMA, IBGE (2004)__: short description
-+ __Lei da Mata Atlântica (2006)__: short description
-+ __Ribeiro et al. (2009)__: short description
++ __World Wildlife Fund (WWF, 2001)__
++ __MMA, IBGE (2004)__
++ __Lei da Mata Atlântica (2006)__
++ __Ribeiro et al. (2009)__
 
 Proposed limits:  
-+ __Integrative limit__: corresponds to the union of the four limits above
-+ __Consensual_limit__: corresponds to the intersection of the four limits above
++ __Integrative limit__: corresponds to the union of the four limits reviewed
++ __Consensual_limit__: corresponds to the intersection of the four limits reviewed
 
 The repository presents the _shapefiles_ of all limits, in geographical projection (lat-long) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
 
