@@ -20,8 +20,8 @@ Reviewed limits:
 + __Ribeiro et al. (2009)__
 
 Proposed limits:  
-+ __Integrative limit__: corresponds to the union of the four limits reviewed
-+ __Consensual_limit__: corresponds to the intersection of the four limits reviewed
++ __Integrative limit__: corresponds to the union of the four limits reviewed.
++ __Consensual_limit__: corresponds to the intersection of the four limits reviewed.
 
 The repository presents the _shapefiles_ of all limits, in geographical projection (lat-long) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
 
@@ -46,9 +46,12 @@ O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeçã
 
 Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.; Ribeiro, M.C. Uma nota sobre os limites territoriais da Mata Atlântica. _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
 
-# Releases
+# On the media and under discussion
 
-[Redescobrindo os limites da Mata Atlântica](https://www2.unesp.br/portal#!/noticia/33763/redescobrindo-os-limites-da-mata-atlantica)
+[Redescobrindo os limites da Mata Atlântica](https://www2.unesp.br/portal#!/noticia/33763/redescobrindo-os-limites-da-mata-atlantica) (pt)
+
+[Um limite da Mata Atlântica para chamar de seu](http://www.efloraweb.com.br/um-limite-da-mata-atlantica-chamar/) by [Rodrigo Polisel](http://brasilbioma.com.br/rodrigo-polisel/) (pt)  
+See also (closely related): [5 Áreas de Tensão Ecológica da Mata Atlântica](http://www.efloraweb.com.br/areas-tensao-ecologica-mata-atlantica/) (pt)
 
 # Contato/Contact
 
