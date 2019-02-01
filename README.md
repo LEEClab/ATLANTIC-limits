@@ -37,14 +37,14 @@ Limites revisados:
 + __Ribeiro et al. (2009)__
 
 Limites propostos:  
-+ __Limite integrador__: corresponde à união dos 4 limites acima.
-+ __Limite consensual__: é a simples interseção dos 4 limites acima.
++ __Limite integrador__: corresponde à união dos quatro limites acima.
++ __Limite consensual__: é a simples interseção dos quatro limites acima.
 
 O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon) e Datum WGS-84 quanto em projeção Albers Equal Area e Datum SAD69. Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e diferenças e similaridades dos limites.
 
 # Citação/Citation
 
-Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.; Ribeiro, M.C. Uma nota sobre os limites territoriais da Mata Atlântica. _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
+Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; Tonetti, V.R.; Niebuhr, B.B.; Ribeiro, M.C. 2018. Uma nota sobre os limites territoriais da Mata Atlântica. _Oecologia Australis_ 22: 3. DOI: 10.4257/oeco.2018.2203.09
 
 # On the media and under discussion
 
