@@ -53,6 +53,9 @@ Muylaert, R.L.; Vancine, M.H.; Bernardo, R.; Oshima, J.E.F.; Sobral-Souza, T.; T
 [Um limite da Mata Atlântica para chamar de seu](http://www.efloraweb.com.br/um-limite-da-mata-atlantica-chamar/) by [Rodrigo Polisel](http://brasilbioma.com.br/rodrigo-polisel/) (pt)  
 See also (closely related): [5 Áreas de Tensão Ecológica da Mata Atlântica](http://www.efloraweb.com.br/areas-tensao-ecologica-mata-atlantica/) (pt)
 
+Another paper with more focus on state and regional values for some of the Atlantic Forest limits:  
+[Mata Atlântica Legal: integrando as visões da biogeografia às políticas públicas para conservação de um hotspot de biodiversidade](https://periodicos.unb.br/index.php/sust/article/view/27112/24752)
+
 # Contato/Contact
 
 + Renata Lara Muylaert <<renatamuy@gmail.com>>  
