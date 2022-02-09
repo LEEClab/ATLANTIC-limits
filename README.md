@@ -1,7 +1,7 @@
 
 <img align="center" width="1000" src="/images/cantareira_tonetti_cut.png">
 
-Foto: V. Tonetti
+Photo: V. Tonetti
 
 # Limits of the Atlantic Forest 
 
@@ -58,6 +58,6 @@ Another paper with more focus on state and regional values for some of the Atlan
 
 # Contato/Contact
 
-+ Renata Lara Muylaert <<renatamuy@gmail.com>>  
-+ Milton Cezar Ribeiro <<mcr@rc.unesp.br>>
++ Renata L. Muylaert <<renatamuy@gmail.com>>  
++ Milton C. Ribeiro <<mcr@rc.unesp.br>>
 
