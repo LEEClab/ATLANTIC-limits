@@ -21,7 +21,7 @@ Reviewed limits:
 
 Proposed limits:  
 + __Integrative limit__: corresponds to the union of the four limits reviewed.
-+ __Integrative limit (updated v.1.1.0)__: corresponds to the union of the four limits reviewed, adjusted according to the Brazilian territory (IBGE, 2020).
++ __Integrative limit (:new: updated v.1.1.0)__: corresponds to the union of the four limits reviewed, adjusted according to the Brazilian territory (IBGE, 2020).
 + __Consensual limit__: corresponds to the intersection of the four limits reviewed.
 
 The repository presents the _shapefiles_ of all limits, in geographical projection (lat-long) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
@@ -39,7 +39,7 @@ Limites revisados:
 
 Limites propostos:  
 + __Limite integrador__: corresponde à união dos quatro limites acima.
-+ __Integrative limit (updated v.1.1.0)__: corresponde à união dos quatro limites acima, ajustada de acordo com a malha territorial brasileira (IBGE, 2020).
++ __Limite integrador ( :new: atualizado v.1.1.0)__: corresponde à união dos quatro limites acima, ajustada de acordo com a malha territorial brasileira (IBGE, 2020).
 + __Limite consensual__: é a simples interseção dos quatro limites acima.
 
 O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon). Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e diferenças e similaridades dos limites.
