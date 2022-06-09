@@ -3,7 +3,7 @@
 
 Photo: V. Tonetti
 
-# Limits of the Atlantic Forest 
+# :palm_tree: Limits of the Atlantic Forest :palm_tree:
 
 __English version of the article available [here](https://github.com/LEEClab/ATLANTIC-limits/blob/master/Muylaert_et_al_2018_English_version_2018_10_D26_GitHub.pdf).__
 
