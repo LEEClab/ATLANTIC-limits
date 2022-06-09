@@ -40,7 +40,7 @@ Limites propostos:
 + __Limite integrador__: corresponde à união dos quatro limites acima.
 + __Limite consensual__: é a simples interseção dos quatro limites acima.
 
-O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon) e Datum WGS-84 quanto em projeção Albers Equal Area e Datum SAD69. Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e diferenças e similaridades dos limites.
+O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon). Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e diferenças e similaridades dos limites.
 
 # Citação/Citation
 
