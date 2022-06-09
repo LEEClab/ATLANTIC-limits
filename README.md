@@ -39,7 +39,7 @@ Limites revisados:
 
 Limites propostos:  
 + __Limite integrador__: corresponde à união dos quatro limites acima.
-+ __Limite integrador ( :new: atualizado v.1.1.0)__: corresponde à união dos quatro limites acima, ajustada de acordo com a malha territorial brasileira (IBGE, 2020).
++ __Limite integrador (:new: atualizado v.1.1.0)__: corresponde à união dos quatro limites acima, ajustada de acordo com a malha territorial brasileira (IBGE, 2020).
 + __Limite consensual__: é a simples interseção dos quatro limites acima.
 
 O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon). Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e diferenças e similaridades dos limites.
