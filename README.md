@@ -58,6 +58,10 @@ See also (closely related): [5 Áreas de Tensão Ecológica da Mata Atlântica](
 Another paper with more focus on state and regional values for some of the Atlantic Forest limits:  
 [Mata Atlântica Legal: integrando as visões da biogeografia às políticas públicas para conservação de um hotspot de biodiversidade](https://periodicos.unb.br/index.php/sust/article/view/27112/24752)
 
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LEEClab/ATLANTIC-limits&type=Date)](https://star-history.com/#LEEClab/ATLANTIC-limits&Date)
+
 # Contato/Contact :envelope:
 
 + Renata L. Muylaert <<renatamuy@gmail.com>>  
