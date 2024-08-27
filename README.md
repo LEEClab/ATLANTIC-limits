@@ -14,7 +14,7 @@ This repository presents the four most used limits for the Atlantic Forest and t
 </p> 
 
 
-# Integrative Limit Updates for Release 1.1.2
+# Integrative Limit Updates for Release 1.2.0
 
 - Compliance with IBGE (2019) limits.
 - Adjusted for current limits of coastal territories (as already in previous release [v1.0.0](https://github.com/LEEClab/ATLANTIC-limits/releases/tag/v1.1.0)).
@@ -81,4 +81,3 @@ Another paper with more focus on state and regional values for some of the Atlan
 
 + Renata L. Muylaert <<renatamuy@gmail.com>>  
 + Milton C. Ribeiro <<mcr@rc.unesp.br>>
-
