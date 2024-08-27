@@ -13,6 +13,21 @@ This repository presents the four most used limits for the Atlantic Forest and t
 <img width="550" src="/images/Fig_release_v02.png">
 </p> 
 
+
+# Integrative Limit Updates for Release 1.1.2
+
+- Compliance with IBGE (2019) limits.
+- Adjusted for current limits of coastal territories (as already in previous release [v1.0.0](https://github.com/LEEClab/ATLANTIC-limits/releases/tag/v1.1.0)).
+- Matches [Atlantic Spatial database](https://github.com/LEEClab/ATLANTIC-SPATIAL) (in preparation).
+- Matches spatial-temporal analyses from [Vancine et al. (2024)](https://www.sciencedirect.com/science/article/pii/S0006320724000600?via%3Dihub).
+
+## Changes in ATLANTIC-limits v1.2.0 Compared to v1.1.0
+
+- *North of Sao Paulo*: Updates made in the northern region (Cerrado boundaries).
+- *Interior Boundaries*: Slightly larger areas towards the interior boundaries across MG, Bahia, Espinhaço, and campos de altitude throughout the Northeast.
+- *Remote Islands*: Removal of remote islands such as Fernando de Noronha (PE) and Ilha da Trindade (ES).
+
+
 Reviewed limits:  :world_map:
 + __World Wildlife Fund (WWF, 2001)__
 + __MMA, IBGE (2004)__
@@ -21,7 +36,7 @@ Reviewed limits:  :world_map:
 
 Proposed limits:  :compass:
 + __Integrative limit__: corresponds to the union of the four limits reviewed.
-+ __Integrative limit (:new: updated v1.1.0)__: corresponds to the union of the four limits reviewed, adjusted according to the Brazilian territory (IBGE, 2020).
++ __Integrative limit (:new: updated v1.2.0)__: corresponds to the union of the four limits reviewed, adjusted according to the Brazilian territory (IBGE, 2020).
 + __Consensual limit__: corresponds to the intersection of the four limits reviewed.
 
 The repository presents the _shapefiles_ of all limits, in geographical projection (lat-long) and Datum WGS-84 as well as in Albers projection and Datum SAD69. Furthermore, the repository presents the references that defined each of the limits, and a script in R to analyze the area and the overlap of the limits.
@@ -39,7 +54,7 @@ Limites revisados:  :world_map:
 
 Limites propostos:  :compass:
 + __Limite integrador__: corresponde à união dos quatro limites acima.
-+ __Limite integrador (:new: atualizado v1.1.0)__: corresponde à união dos quatro limites acima, ajustada de acordo com a malha territorial brasileira (IBGE, 2020).
++ __Limite integrador (:new: atualizado v1.2.0)__: corresponde à união dos quatro limites acima, ajustada de acordo com a malha territorial brasileira (IBGE, 2020).
 + __Limite consensual__: é a simples interseção dos quatro limites acima.
 
 O repositório apresenta os _shapefiles_ de todos os limites, tanto em projeção geográfica (lat-lon). Além disso, o repositório apresenta as referências que definiram cada um dos limites, e um _script_ em R para a análise da área e diferenças e similaridades dos limites.
