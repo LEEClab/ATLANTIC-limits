@@ -14,16 +14,16 @@ This repository presents the four most used limits for the Atlantic Forest and t
 </p> 
 
 
-# Integrative Limit Updates for Release 1.2.0
+# Integrative Limit Updates for Release 1.2.0 :new:
 
 - Compliance with IBGE (2019) limits.
 - Adjusted for current limits of coastal territories (as already in previous release [v1.0.0](https://github.com/LEEClab/ATLANTIC-limits/releases/tag/v1.1.0)).
-- Matches [Atlantic Spatial database](https://github.com/LEEClab/ATLANTIC-SPATIAL) (in preparation).
+- Matches [Atlantic Spatial database](https://github.com/LEEClab/ATLANTIC-SPATIAL) (_in prep_).
 - Matches spatial-temporal analyses from [Vancine et al. (2024)](https://www.sciencedirect.com/science/article/pii/S0006320724000600?via%3Dihub).
 
 ## Changes in ATLANTIC-limits v1.2.0 Compared to v1.1.0
 
-- *North of Sao Paulo*: Updates made in the northern region (Cerrado boundaries).
+- *North of São Paulo*: Updates made in the northern region (Cerrado boundaries).
 - *Interior Boundaries*: Slightly larger areas towards the interior boundaries across MG, Bahia, Espinhaço, and campos de altitude throughout the Northeast.
 - *Remote Islands*: Removal of remote islands such as Fernando de Noronha (PE) and Ilha da Trindade (ES).
 
